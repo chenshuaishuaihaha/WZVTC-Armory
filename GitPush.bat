@@ -1,5 +1,3 @@
-git pull
-
 echo "Start submitting code to the local repository"
 echo "The current directory is：%cd%"
 git add *
